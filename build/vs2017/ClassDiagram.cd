@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameObject_3D" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgABAAAAAABAAQAAAAAgQAAAAAAAAAAEAIAAAAgAA=</HashCode>
+      <FileName>GameObject_3D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="9.25" Y="2" Width="4" />
+    <TypeIdentifier>
+      <HashCode>QJwAAACAAOIaAkBAIAAApgSSUYCAloAWAAZIAUoEIUA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject_2D" Collapsed="true">
+    <Position X="13" Y="3.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AABACAgAAAAAAgAAABAABgAAAAAAAAAAAEAIAAAAAAA=</HashCode>
+      <FileName>GameObject_2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collectible" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAgAAACAAAAAAAAAAAAAAAAAAAAAAAIAAAEAAA=</HashCode>
+      <FileName>Collectible.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fan" Collapsed="true">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAACAAAAAgAAAAAIAAAAAgA=</HashCode>
+      <FileName>Fan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hazzard" Collapsed="true">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hazzard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelBlock" Collapsed="true">
+    <Position X="9.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LevelBlock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerBobbi" Collapsed="true">
+    <Position X="12" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAQCBAAAACAABEGEAIAAAAgEMBIgCEACAAIAAEIAA=</HashCode>
+      <FileName>PlayerBobbi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H_Blocky" Collapsed="true">
+    <Position X="6.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAAAAAAAACAAAAAAAAAAAAAADAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>H_Blocky.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="H_Spike" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>H_Spike.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State" Collapsed="true">
+    <Position X="10.75" Y="11.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>UIRChCkQCAQAgACAIAQAABKhIQAJIBQAAAhIJJhUAgA=</HashCode>
+      <FileName>State.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level1" Collapsed="true">
+    <Position X="5.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAggEAAACAABAkAAAgBABBhgACJIQIBgQkBAQAEYgA=</HashCode>
+      <FileName>Level1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderState" Collapsed="true">
+    <Position X="8.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAAEAAAIAAAAAAAIAAABEAgAAAgAAAAAAgA=</HashCode>
+      <FileName>LoaderState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseState" Collapsed="true">
+    <Position X="12.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICAAACAAAAAAkAAAAAAlQAAAAAAMAAAAAgAAAAAAAA=</HashCode>
+      <FileName>PauseState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplashState" Collapsed="true">
+    <Position X="16.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAABAAAAAAAAAAAAgAAAAEAAA=</HashCode>
+      <FileName>SplashState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CreditsState" Collapsed="true">
+    <Position X="9.5" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAABAAAAAAIAAAAAgAAAAAAAA=</HashCode>
+      <FileName>CreditsState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverState" Collapsed="true">
+    <Position X="11.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>GameOverState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenuState" Collapsed="true">
+    <Position X="13" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAABAAAAAAIAAAIAgAAAAEAAA=</HashCode>
+      <FileName>MainMenuState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionsState" Collapsed="true">
+    <Position X="14.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAABAAAAAAIAAAAAgAAAAAAAA=</HashCode>
+      <FileName>OptionsState.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
